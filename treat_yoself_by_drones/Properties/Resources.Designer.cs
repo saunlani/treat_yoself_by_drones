@@ -83,6 +83,46 @@ namespace treat_yoself_by_drones.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap ariel_backy {
+            get {
+                object obj = ResourceManager.GetObject("ariel backy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap best_back {
+            get {
+                object obj = ResourceManager.GetObject("best back", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap best_back1 {
+            get {
+                object obj = ResourceManager.GetObject("best back1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap drone_backy {
+            get {
+                object obj = ResourceManager.GetObject("drone backy", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap gel {
             get {
                 object obj = ResourceManager.GetObject("gel", resourceCulture);
@@ -136,6 +176,16 @@ namespace treat_yoself_by_drones.Properties {
         internal static System.Drawing.Bitmap mani {
             get {
                 object obj = ResourceManager.GetObject("mani", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap minimal {
+            get {
+                object obj = ResourceManager.GetObject("minimal", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

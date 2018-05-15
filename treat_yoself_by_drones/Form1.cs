@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace treat_yoself_by_drones
 {
+
     public partial class Form1 : Form
     {
+        public static string txtInput;
         private int haircut = 0;
         private int shave = 0;
         private int manicure = 0;
@@ -327,7 +329,7 @@ namespace treat_yoself_by_drones
         private void button13_Click(object sender, EventArgs e)
         {
             //declare tax rate
-            double Tax_rate = 0.6;
+            double Tax_rate = 0.06;
 
             //cost of each item 
             itemcost[0] = Convert.ToDouble(textBox1.Text) * 15;
@@ -346,7 +348,12 @@ namespace treat_yoself_by_drones
 
             // calculates subtotal and sends to subtotal box
             iSubTotal = itemcost.Sum();
-            textBox15.Text = Convert.ToString(iSubTotal);
+            iTax = iSubTotal * Tax_rate;
+            double iGrandTotal = (iTax + iSubTotal);
+            textBox15.Text = Convert.ToString("$"+iSubTotal);
+            textBox14.Text = Convert.ToString("$" + iTax);
+            textBox13.Text = Convert.ToString("$" + iGrandTotal);
+
         }
 
         private void textBox15_TextChanged_1(object sender, EventArgs e)
@@ -379,6 +386,28 @@ namespace treat_yoself_by_drones
         private void label4_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void textBox14_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+
+
+        private void textBox13_TextChanged_2(object sender, EventArgs e)
+        {
+            
+            txtInput=textBox13.Text;
+
+        
+        }
+
+        private void button13_Click_1(object sender, EventArgs e)
+        {
+            this.Hide();
+            Checkout checkoutscreen = new Checkout();
+            checkoutscreen.ShowDialog();
         }
 
         private void button10_Click(object sender, EventArgs e)

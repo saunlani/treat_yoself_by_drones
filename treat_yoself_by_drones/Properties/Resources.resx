@@ -130,6 +130,12 @@
   <data name="pedi" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pedi.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="ariel backy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ariel backy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="best back" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\best back.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="tiny drone" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\tiny drone.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -138,6 +144,9 @@
   </data>
   <data name="shave1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\shave1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="waxxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\waxxx.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="shave" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\shave.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,6 +172,12 @@
   <data name="lotion" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\lotion.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="drone backy" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\drone backy.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="minimal" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\minimal.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="pedi2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pedi2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -172,7 +187,7 @@
   <data name="palosanto" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\palosanto.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="waxxx" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\waxxx.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="best back1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\best back1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
